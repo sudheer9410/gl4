@@ -56,3 +56,9 @@ git pull
 ls
 git checkout main
 ls
+
+
+git add -all 
+
+
+
